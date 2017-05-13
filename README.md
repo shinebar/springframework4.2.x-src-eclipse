@@ -100,3 +100,5 @@ The Spring Framework is released under version 2.0 of the [Apache License][].
 [The Spring Blog]: http://spring.io/blog/
 [news feed]: http://spring.io/blog/category/news
 [Apache License]: http://www.apache.org/licenses/LICENSE-2.0
+# springframework4.2.x-src-eclipse
+springframework4.2.x源码，通过gradle管理生成的,可直接导入eclipse中查看
